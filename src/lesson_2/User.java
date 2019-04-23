@@ -1,5 +1,8 @@
 package lesson_2;
 
+/**
+ * User Model
+ */
 public class User {
     String username;
     String firstName;
@@ -7,6 +10,12 @@ public class User {
     String password;
 
 
+    /**
+     * @param username  String
+     * @param firstName String
+     * @param lastName  String
+     * @param password  String
+     */
     public User(String username, String firstName, String lastName, String password) {
         this.username = username;
         this.firstName = firstName;

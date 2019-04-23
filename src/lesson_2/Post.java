@@ -2,11 +2,21 @@ package lesson_2;
 
 import java.util.Date;
 
+/**
+ * Post Model
+ */
 public class Post extends Note {
     Category category;
     Date dateTime;
     User user;
 
+    /**
+     * @param title    String
+     * @param content  String
+     * @param category String
+     * @param dateTime Date
+     * @param user     User model
+     */
     public Post(String title, String content, Category category, Date dateTime, User user) {
         super(title, content);
         this.category = category;
