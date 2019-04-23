@@ -17,3 +17,5 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
 
 * [Comments and Java doc](https://github.com/khaledbakeer/JavaExamples/blob/master/src/lesson_1/MakeDoc.java).
 
+* [Understanding incrementing options ++i and i++](https://github.com/khaledbakeer/JavaExamples/blob/master/src/lesson_2/IncrementNumbers.java).
+
