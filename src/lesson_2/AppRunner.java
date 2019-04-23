@@ -1,5 +1,9 @@
 package lesson_2;
 
+import lesson_2.simpleClassModel.Category;
+import lesson_2.simpleClassModel.Post;
+import lesson_2.simpleClassModel.User;
+
 import java.util.Date;
 
 /**
