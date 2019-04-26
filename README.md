@@ -21,5 +21,6 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
 
 * [Simple model Classes in Java (How to post using a User and Categories)](https://github.com/khaledbakeer/JavaExamples/tree/master/src/lesson_2/simpleClassModel).
     
-    * [Run an Example](https://github.com/khaledbakeer/JavaExamples/blob/master/src/lesson_2/AppRunner.java) 
+    * [Run an Example](https://github.com/khaledbakeer/JavaExamples/blob/master/src/lesson_2/AppRunner.java)
 
+* [If and Switch](https://github.com/khaledbakeer/JavaExamples/blob/master/src/lesson_2/If_Switch.java)
