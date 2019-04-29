@@ -26,3 +26,7 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
 * [If and Switch](https://github.com/khaledbakeer/JavaExamples/blob/master/src/lesson_2/If_Switch.java)
 
 * [for, foreach, while](https://github.com/khaledbakeer/JavaExamples/blob/master/src/lesson_2/Loops.java)
+
+* [Java Access Modifiers](https://github.com/khaledbakeer/JavaExamples/tree/master/src/lesson_3/javaAccessModifiers)
+
+
