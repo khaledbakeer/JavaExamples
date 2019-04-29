@@ -36,3 +36,5 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
     * [Object Arrays](https://github.com/khaledbakeer/JavaExamples/blob/master/src/lesson_3/JavaArrays/ObjectArrays.java)
 
     * [Multiplication Table](https://github.com/khaledbakeer/JavaExamples/blob/master/src/lesson_3/JavaArrays/MultiplicationTable.java)
+    
+    * [Math Function Table](https://github.com/khaledbakeer/JavaExamples/blob/master/src/lesson_3/JavaArrays/FunctionTable.java)
