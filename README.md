@@ -29,4 +29,8 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
 
 * [Java Access Modifiers](https://github.com/khaledbakeer/JavaExamples/tree/master/src/lesson_3/javaAccessModifiers)
 
+* [Arrays](https://github.com/khaledbakeer/JavaExamples/tree/master/src/lesson_3/JavaArrays)
 
+    * [Basic Arrays](https://github.com/khaledbakeer/JavaExamples/blob/master/src/lesson_3/JavaArrays/BasicArrays.java)
+
+    * [Object Arrays](https://github.com/khaledbakeer/JavaExamples/blob/master/src/lesson_3/JavaArrays/ObjectArrays.java)

@@ -17,4 +17,9 @@ public class Note {
         this.title = title;
         this.content = content;
     }
+
+
+    public String getInfo() {
+        return "Diese Category ist: " + title + "| Spricht über: " + content;
+    }
 }
