@@ -42,3 +42,5 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
 * [Abstract](src/lesson_4/abstractClass)
     
     * [Simple Example](src/lesson_4/abstractClass/simpleExample)
+
+* [Methods in Java](src/lesson_4/methods)
