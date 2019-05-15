@@ -44,3 +44,15 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
     * [Simple Example](src/lesson_4/abstractClass/simpleExample)
 
 * [Methods in Java](src/lesson_4/methods)
+
+* [Interfaces](src/lesson_5/Interfaces)
+
+    * [Run an Example](src/lesson_5/Interfaces/AppRunner.java)
+
+* [Static](src/lesson_5/StaticExample)
+
+    * [Run an Example](src/lesson_5/StaticExample/AppRunner.java)
+    
+* [Break And Continue](src/lesson_5/BreakAndContinue.java)
+
+* [Simple Factory Example](src/lesson_5/FactoryExample)
