@@ -5,6 +5,8 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
 
 ## Examples:
 
+### Basics:
+
 * [Print "Hello World!"](https://github.com/khaledbakeer/JavaExamples/blob/master/src/lesson_1/HelloWorld.java).
 
 * [Print a line contains integers](https://github.com/khaledbakeer/JavaExamples/blob/master/src/lesson_1/SoutWithInts.java).
@@ -55,4 +57,8 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
     
 * [Break And Continue](src/lesson_5/BreakAndContinue.java)
 
-* [Simple Factory Example](src/lesson_5/FactoryExample)
+### Useful Examples:
+
+* [Practical Example](src/lesson_5/FactoryExample)
+
+* [MARKOW-Quellen](https://github.com/khaledbakeer/MARKOW-Quellen)
