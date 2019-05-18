@@ -57,8 +57,8 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
     
 * [Break And Continue](src/lesson_5/BreakAndContinue.java)
 
-### Useful Examples:
+### Practical Examples:
 
-* [Practical Example](src/lesson_5/FactoryExample)
+* [Factory Example](src/lesson_5/FactoryExample)
 
 * [MARKOW-Quellen](https://github.com/khaledbakeer/MARKOW-Quellen)
