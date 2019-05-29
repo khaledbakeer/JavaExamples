@@ -66,3 +66,5 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
 * [MARKOW-Quellen](https://github.com/khaledbakeer/MARKOW-Quellen)
 
 * [Binary Algebraic Structures](https://www.khaled.de/binaryalgebraicstructures) : `XOR`, `AND`, `(Z2, +)`, `(Z2, *)`.
+
+* [Generics](src/lesson_7/Generics.java)
