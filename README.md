@@ -63,6 +63,8 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
 
 * [Collections `Map`, `List`, `Set`](src/lesson_7/Collections.java)
 
+* [GUI](src/lesson_8/GUI.java)
+
 ### Practical Examples:
 
 * [Factory Example](src/lesson_5/FactoryExample)
