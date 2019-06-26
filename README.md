@@ -65,6 +65,13 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
 
 * [GUI](src/lesson_8/GUI.java)
 
+### Design Patterns:
+
+* [Composite Design Pattern](src/lesson_9)
+    
+    * [General Design](src/lesson_9/general)
+
+
 ### Practical Examples:
 
 * [Factory Example](src/lesson_5/FactoryExample)
