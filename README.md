@@ -67,7 +67,7 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
 
 ### Design Patterns:
 
-* [Composite Design Pattern](src/lesson_9)
+* [Composite Design Pattern](src/lesson_9) - [Materials](src/lesson_9/Composite%20Design%20Pattern.pdf)
     
     * [General Design](src/lesson_9/general)
     
