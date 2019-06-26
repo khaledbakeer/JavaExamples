@@ -70,6 +70,8 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
 * [Composite Design Pattern](src/lesson_9)
     
     * [General Design](src/lesson_9/general)
+    
+    * [Describe The Problem - Step 01](src/lesson_9/step_1)
 
 
 ### Practical Examples:
