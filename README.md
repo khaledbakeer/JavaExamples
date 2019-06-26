@@ -72,7 +72,8 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
     * [General Design](src/lesson_9/general)
     
     * [Describe The Problem - Step 01](src/lesson_9/step_1)
-
+    
+    * [Fix The Problem - Step 02](src/lesson_9/step_2)
 
 ### Practical Examples:
 
