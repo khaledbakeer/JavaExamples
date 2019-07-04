@@ -79,6 +79,8 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
 
 * [Strategy Pattern](src/lesson_11)
 
+* [Understanding MVC](src/lesson_12)
+
 ### Practical Examples:
 
 * [Factory Example](src/lesson_5/FactoryExample)
