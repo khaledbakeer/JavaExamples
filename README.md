@@ -77,6 +77,8 @@ Get the course [Materials](http://fsr.github.io/java-lessons/materials.html), [T
     
 * [Singleton Pattern](src/lesson_10)
 
+* [Strategy Pattern](src/lesson_11)
+
 ### Practical Examples:
 
 * [Factory Example](src/lesson_5/FactoryExample)
